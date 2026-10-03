@@ -1,2 +1,2 @@
 ### 请输入文本
-在网站后面输入anydo.html即可进入主页
+在网站后面输入/index_files/qiandu.html即可进入主页
